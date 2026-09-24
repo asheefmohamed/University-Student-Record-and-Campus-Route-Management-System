@@ -21,8 +21,8 @@ queues, binary search trees, hashing, and graphs.
 | Name | Student ID | Responsibility | Contribution |
 |---|---|---|---|
 | Member 1 | ID 23da2-0099 | Linked list and integration | Description |
-| Member 2 | ID 23da2-0099 | Stack, queue and validation | Description |
-| Member 3 | ID 23da2-0099 | BST and hashing | Description |
+| Member 2 | ID 23da2-0439 | Stack, queue and validation | Description |
+| Member 3 | ID 23da2-0478 | BST and hashing | Description |
 | Member 4 | ID 23da2-0099 | Graph, BFS and DFS | Description |
 
 ## How to run

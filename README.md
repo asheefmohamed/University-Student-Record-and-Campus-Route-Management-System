@@ -22,7 +22,7 @@ queues, binary search trees, hashing, and graphs.
 |---|---|---|---|
 | Asheef mohamed | ID 23da2-0099 | Linked list and integration |  Add Student Record, Update Student Record,Delete Student Record |
 | Member 2 | ID 23da2-0439 | Stack, queue and validation | Description |
-| Member 3 | ID 23da2-0478 | BST and hashing | Description |
+| Nushrath Ahamed| ID 23da2-0439 | BST and hashing | Description |
 | Mohammed ibrahim | ID 23da2-0478| Graph, BFS and DFS | Campus grap and location connacting |
 
 ## How to run
